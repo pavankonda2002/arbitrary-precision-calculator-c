@@ -62,3 +62,12 @@ Enter first number: 123456789123456789
 Enter operator (+, -, *, /): +
 Enter second number: 987654321987654321
 Result: 1111111111111111110
+
+### Subtraction of Large Numbers
+
+```text
+Arbitrary Precision Calculator
+Enter first number: 987654321987654321
+Enter operator (+, -, *, /): -
+Enter second number: 123456789123456789
+Result: 864197532864197532
